@@ -1,0 +1,147 @@
+body{
+    background-image: url(background-new.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.white{
+    background: white;
+    border-radius: 15px;
+}
+.form-padding{
+    padding: 70px 300px;
+}
+.form-padding-2{
+    padding: 170px 300px;
+}
+.form-heading{
+    text-align: center;
+    /* margin-top: 10px; */
+    color: #0e5399;
+    margin-bottom: 20px;
+}
+.icon-styling{
+    padding: 25px 15px;
+    background: #050640;
+    border-radius: 8px;
+    color: white;
+}
+.step-margin{
+    margin-left: 15px;
+}
+.step-alignment{
+    /* text-align: center; */
+    /* margin: 15px 0px; */
+}
+.difference{
+    border-right: 1px solid #debf7f;  
+    padding: 25px 0px;
+}
+.position-fix{
+    position: relative;
+    /* right: 9px; */
+}
+.position-fix-2{
+    position: relative;
+    /* right: 14px; */
+}
+.position-fix-3{
+    position: relative;
+    /* left: 2px; */
+}
+.position-fix-4{
+    position: relative;
+    /* right: 15px; */
+}
+.icon-styling-2{
+    padding: 25px 17px;
+    background: #050640;
+    border-radius: 8px;
+    color: white;
+}
+.icon-styling-3{
+    padding: 25px 18px;
+    background: #050640;
+    border-radius: 8px;
+    color: white;
+}
+.icon-styling-4{
+    padding: 25px 14px;
+    background: #050640;
+    border-radius: 8px;
+    color: white;
+}
+.progress-bar{
+    border-left: 1px solid#050640;
+    padding: 10px;
+    position: relative;
+    margin: 0px 25px;
+}
+.progress-bar-2{
+    border-left: 1px solid #050640;
+    padding: 10px;
+    position: relative;
+    margin: 0px 25px;
+}
+.progress-bar-3{
+    border-left: 1px solid #050640;
+    padding: 10px;
+    position: relative;
+    margin: 0px 25px;
+}
+.progress-bar-4{
+    border-left: 1px solid #050640;
+    padding: 10px;
+    position: relative;
+    margin: 0px 25px;
+}
+.steps-margin{
+    margin: 20px 0px;
+    padding: 0px 30px;
+}
+.button-flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.button-margin{
+    margin: 0px 10px;
+}
+.field-color{
+    background: #ededed;
+    border: 1px solid #848484;
+}
+.next-color{
+    background: #050640;
+    border: 1px solid #050640;
+}
+.back-color{
+    background: #074cb3;
+    border: 1px solid #074cb3;
+}
+
+.green{
+    background: #00ba00 !important;
+}
+.border-green{
+     border-left: 1px solid #00ba00 !important;
+}
+.text-green{
+    color: #00ba00 !important;
+}
+.error{
+color: red;
+}
+.thankyou{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact-you{
+    text-align: center;
+    font-size: 20px;
+    color: #9b6a26;
+    margin-bottom: 30px;
+}
